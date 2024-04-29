@@ -1,0 +1,46 @@
+{
+	"id": "boss-loot-assets-free",
+	"title": "Boss Loot FX Assets Free",
+	"description": "<p>This module includes a diverse list of high-quality animations, perfect for visualizing weapon strikes, spell effects, equipment functionality, and explosive encounters.</p><p>Thank you for supporting us on <a href=\"https://www.patreon.com/BossLoot\">Patreon!</a></p><p>Join our <a href=\"https://discord.gg/Cg8WEDbCua\">Discord server</a> for any further questions.</p>",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "11.315",
+		"maximum": "12"
+	},
+	"esmodules": [
+		"scripts/bossLootFx.js"
+	],
+	"media": [
+		{
+			"type": "setup",
+			"url": "modules/boss-loot-assets-free/artwork/00-logo/setup-logo.png",
+			"loop": false,
+			"flags": {}
+		}
+	],
+	"authors": [
+		{
+			"name": "quantiq",
+			"url": "https://www.patreon.com/BossLoot",
+			"discord": "https://discord.gg/Cg8WEDbCua",
+			"flags": {}
+		},
+		{
+			"name": "razvani",
+			"url": "https://www.patreon.com/BossLoot",
+			"discord": "https://discord.gg/Cg8WEDbCua",
+			"flags": {}
+		},
+		{
+			"name": "avatarart",
+			"url": "https://www.patreon.com/BossLoot",
+			"discord": "https://discord.gg/Cg8WEDbCua",
+			"flags": {}
+		}
+	],
+	"url": "https://www.patreon.com/BossLoot",
+	"bugs": "https://discord.gg/Cg8WEDbCua",
+	"manifest": "https://some.link.json",
+	"download": "https://some.link.zip"
+}
