@@ -57,9 +57,6 @@ export async function createDatabase(path) {
     },
     coin1: {
       flip: {
-        tail: {
-          yellow: `${path}/${MODULE_NAME}/artwork/02-equipment/coin/Coin_1_Flip_Back_GOLD_1200x1200.webm`,
-        },
         head: {
           yellow: `${path}/${MODULE_NAME}/artwork/02-equipment/coin/Coin_1_Flip_Front_GOLD_1200x1200.webm`,
         },
@@ -68,7 +65,6 @@ export async function createDatabase(path) {
     helm1: {
       pyro: {
         fire: {
-          normal: `${path}/${MODULE_NAME}/artwork/02-equipment/helm/Pyro_Head_1200x1200.webm`,
           flare: {
             rotate: `${path}/${MODULE_NAME}/artwork/02-equipment/helm/Pyro_Head_Rotate_45degrees_1200x1200.webm`,
           },
@@ -196,16 +192,6 @@ export async function createDatabase(path) {
             },
           },
         },
-        attack2: {
-          stab: {
-            reach: {
-              trail1: {
-                _template: 'melee',
-                yellow: `${path}/${MODULE_NAME}/artwork/01-weapon/halberd/Yarte_Pora_ATTACK_2_TRAIL_1_800x1200.webm`, // 10ft range
-              },
-            },
-          },
-        },
       },
       rapier1: {
         attack1: {
@@ -223,14 +209,6 @@ export async function createDatabase(path) {
             trail1: {
               _template: 'melee',
               yellow: `${path}/${MODULE_NAME}/artwork/01-weapon/greatsword/Queens_Burden_ATTACK_1_TRAIL_1_1200x1200.webm`,
-            },
-          },
-        },
-        attack2: {
-          swing: {
-            trail1: {
-              _template: 'melee',
-              yellow: `${path}/${MODULE_NAME}/artwork/01-weapon/greatsword/Queens_Burden_ATTACK_2_TRAIL_1_1200x1200.webm`,
             },
           },
         },
@@ -262,16 +240,6 @@ export async function createDatabase(path) {
               trail1: {
                 _template: 'melee',
                 blue: `${path}/${MODULE_NAME}/artwork/01-weapon/greataxe/Colossus_Cleaver_1_ATTACK_1_5ft_1200x1200.webm`,
-              },
-            },
-          },
-        },
-        attack2: {
-          swing: {
-            reach: {
-              trail1: {
-                _template: 'melee',
-                blue: `${path}/${MODULE_NAME}/artwork/01-weapon/greataxe/Colossus_Cleaver_1_ATTACK_1_10ft_1200x1200.webm`,
               },
             },
           },
@@ -331,6 +299,9 @@ export async function createDatabase(path) {
             attack1: {
               blue: `${path}/${MODULE_NAME}/artwork/01-weapon/bow/Void_Vortex_Drawing_1_1500x1200.webm`,
             },
+            attack2: {
+              blue: `${path}/${MODULE_NAME}/artwork/01-weapon/bow/Void_Vortex_Drawing_2_1500x1200.webm`,
+            },
           },
         },
       },
@@ -354,7 +325,6 @@ export async function createDatabase(path) {
       swirl1: {
         fire1: {
           orange: `${path}/${MODULE_NAME}/artwork/05-spell/homebrew/cast/Spell_Cast_2_Fire_1_ORANGE_1200x1200.webm`,
-          yellow: `${path}/${MODULE_NAME}/artwork/05-spell/homebrew/cast/Spell_Cast_2_Fire_1_YELLOW_1200x1200.webm`,
         },
       },
       circles1: {
@@ -670,22 +640,6 @@ export async function createDatabase(path) {
   /* -------------------------------------------- */
   // TOKEN
   /* -------------------------------------------- */
-  database.token = {
-    tyrant1: {
-      flame: {
-        robe: {
-          static: `${path}/${MODULE_NAME}/artwork/09-token/tyrant/The_Flame_Tyrant_Robe_ART_TOPDOWN_TOKEN_1200x1200.webp`,
-          animated: `${path}/${MODULE_NAME}/artwork/09-token/tyrant/The_Flame_Tyrant_Robe_ANIMATED_TOKEN_600x600.webm`,
-        },
-      },
-    },
-    elemental1: {
-      flame: {
-        orange: {
-          static: `${path}/${MODULE_NAME}/artwork/09-token/elemental/flame/Flame_Elemental_1_ART_TOPDOWN_TOKEN_1200x1200.webp`,
-          animated: `${path}/${MODULE_NAME}/artwork/09-token/elemental/flame/Flame_Elemental_ANIMATED_TOKEN_600x600.webm`,
-        },
-      },
-    },
-  };
+  // database.token = {
+  // };
 }
