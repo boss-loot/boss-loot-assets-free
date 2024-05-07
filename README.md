@@ -24,5 +24,9 @@ To install Boss Loot FX Assets:
 2. Search for "Boss Loot FX Assets" and install it.
 3. Enable the module in your game setup.
 
+## Usage
+
+![Greataxe](https://github.com/boss-loot/boss-loot-assets-free/blob/main/artwork/01-weapon/greataxe/Colossus_Cleaver_1_ATTACK_1_5ft_1200x1200.webm)
+
 ## Support
 If you enjoy using this module, consider joining our [Patreon](https://www.patreon.com/BossLoot) for exclusive content. Additional support, questions, and bug reports can be made on our [Discord](https://discord.gg/Cg8WEDbCua) server.
