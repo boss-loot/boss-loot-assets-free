@@ -26,7 +26,7 @@ To install Boss Loot FX Assets:
 
 ## Showcase
 
-[![Showcase](http://img.youtube.com/vi/o42me4ZslnE/0.jpg)](https://www.youtube.com/watch?v=o42me4ZslnE)
+[![Showcase](https://img.youtube.com/vi/7XOisGuVVsY/0.jpg)](https://www.youtube.com/watch?v=7XOisGuVVsY)
 
 ## Support
 If you enjoy using this module, consider joining our [Patreon](https://www.patreon.com/BossLoot) for exclusive content. Additional support, questions, and bug reports can be made on our [Discord](https://discord.gg/Cg8WEDbCua) server.
