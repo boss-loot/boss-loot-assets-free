@@ -24,45 +24,9 @@ To install Boss Loot FX Assets:
 2. Search for "Boss Loot FX Assets" and install it.
 3. Enable the module in your game setup.
 
-## Usage
+## Showcase
 
-<div id="image-table">
-    <table>
-	    <tr>
-    	    <td style="padding:10px">
-        	    <img src="https://github.com/boss-loot/boss-loot-assets-free/blob/main/artwork/00-logo/Greataxe_1_ATTACK_1_5ft_1200x1200.gif" width="320"/>
-      	    </td>
-            <td style="padding:10px">
-            	    <img src="https://github.com/boss-loot/boss-loot-assets-free/blob/main/artwork/00-logo/Greatsword_ATTACK_1_TRAIL_1_1200x1200.gif" width="320"/>
-            </td>
-        </tr>
-    </table>
-</div>
-
-<div id="image-table">
-    <table>
-	    <tr>
-    	    <td style="padding:10px">
-        	    <img src="https://github.com/boss-loot/boss-loot-assets-free/blob/main/artwork/00-logo/Coin_1_Flip_Front_GOLD_1200x1200.gif" width="320"/>
-            </td>
-            <td style="padding:10px">
-            	    <img src="https://github.com/boss-loot/boss-loot-assets-free/blob/main/artwork/00-logo/Fireball_1_CARTOON_EXPLOSION_ORANGE_1200x1200.gif" width="320"/>
-            </td>
-        </tr>
-    </table>
-</div>
-
-<div id="image-table">
-    <table>
-            <td style="padding:10px">
-            	    <img src="https://github.com/boss-loot/boss-loot-assets-free/blob/main/artwork/00-logo/Halberd_ATTACK_1_TRAIL_1_1200x1200.gif" width="320"/>
-            </td>
-	    <td style="padding:10px">
-            	    <img src="https://github.com/boss-loot/boss-loot-assets-free/blob/main/artwork/00-logo/Frame_1_Border_1_Fire_ORANGE_1200x1200.gif" width="320"/>
-            </td>
-        </tr>
-    </table>
-</div>
+[![Showcase](http://img.youtube.com/vi/o42me4ZslnE/0.jpg)](https://www.youtube.com/watch?v=o42me4ZslnE)
 
 ## Support
 If you enjoy using this module, consider joining our [Patreon](https://www.patreon.com/BossLoot) for exclusive content. Additional support, questions, and bug reports can be made on our [Discord](https://discord.gg/Cg8WEDbCua) server.
