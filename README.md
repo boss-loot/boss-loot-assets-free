@@ -1,6 +1,6 @@
 # Boss Loot FX Assets
 
-![Foundry Version](https://img.shields.io/badge/Foundry-v11.315-informational)
+![Foundry Version](https://img.shields.io/badge/Foundry-v12-informational)
 ![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https://forge-vtt.com/api/bazaar/package/boss-loot-assets-free&colorB=4aa94a)
 ![Downloads Total](https://img.shields.io/github/downloads/boss-loot/boss-loot-assets-free/total)
 ![Downloads Latest Version](https://img.shields.io/github/downloads/boss-loot/boss-loot-assets-free/latest/boss-loot-assets-free.zip)
