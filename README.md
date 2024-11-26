@@ -11,6 +11,7 @@
 </a>
 
 ### Boss Loot FX Assets is a collection of must-have digital assets for creating dynamic visual effects in tabletop games.
+### Animation Editor it's curently compatible with D&D (v3 and v4), PF2E and DC20 Systems.
 
 ---
 
