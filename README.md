@@ -10,8 +10,8 @@
     <img src="https://github.com/boss-loot/Boss-Loot-Interactive-Magic-Items/blob/main/artwork/000-logo/follow-us-on-patreon-icon.jpg" alt="Support on Patreon" width="217" height="51">
 </a>
 
-### Contains some animation assets and the Animation Editor (with limited features compared to Premium). Supports D&D 5e, PF2E.
-### With the Animation Editor you can build complex VFX/SFX sequences that trigger from items, spells, and abilities, using assets from BLFX Premium Packs or JB2A. The module is currently compatible with Foundry VTT v12-v14 | D&D System v4-v5.
+### The free version contains only 10% of the assets available in the Premium version and is also missing some features, such as Auto Recognition.
+### With the Animation Editor you can build complex VFX/SFX sequences that trigger from items, spells, and abilities, using assets from BLFX Assets Packs or JB2A. The module is currently compatible with Foundry VTT v12-v14 | D&D System v4-v5 and PF2E
 
 ---
 
