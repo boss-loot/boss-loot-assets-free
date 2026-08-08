@@ -10,8 +10,8 @@
     <img src="https://github.com/boss-loot/Boss-Loot-Interactive-Magic-Items/blob/main/artwork/000-logo/follow-us-on-patreon-icon.jpg" alt="Support on Patreon" width="217" height="51">
 </a>
 
-### Boss Loot FX Assets is a collection of must-have digital assets for creating dynamic visual effects in tabletop games.
-### The Animation Editor is currently compatible with D&D (v3 and v4), PF2E, and DC20 systems.
+### Contains some animation assets and the Animation Editor (with limited features compared to Premium). Supports D&D 5e, PF2E.
+### With the Animation Editor you can build complex VFX/SFX sequences that trigger from items, spells, and abilities, using assets from BLFX Premium Packs or JB2A. The module is currently compatible with Foundry VTT v12-v14 | D&D System v4-v5.
 
 ---
 
@@ -21,9 +21,9 @@
 - Regular updates and new additions through our Patreon.
 
 ## Installation
-To install Boss Loot FX Assets:
+To install BLFX Free module:
 1. Navigate to Add-on Modules in your Foundry VTT setup.
-2. Search for "Boss Loot FX Assets" and install it.
+2. Search for "BLFX" and install it.
 3. Enable the module in your game setup.
 
 ## Showcase
